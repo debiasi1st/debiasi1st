@@ -1,5 +1,10 @@
 <h2 align="left">Welcome to my GitHub profile!</h2>
 
+###
+
+
+
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -30,6 +35,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/debiasi1st/debiasi1st/output/snake.svg" alt="Snake animation" />
 
 ###
