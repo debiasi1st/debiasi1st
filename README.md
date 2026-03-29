@@ -33,7 +33,6 @@
 
 ###
 
-<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/debiasi1st/debiasi1st/output/snake-dark.svg">
