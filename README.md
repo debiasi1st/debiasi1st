@@ -14,7 +14,7 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
-
+<p align="left">Cursando Ciência da Computação - UNIVALI<br>
 <p align="left">I'm Gabriel Debiasi Meurer from Brazil! 🇧🇷 <br><br>- 📚 I'm currently learning Computer Science, focusing on algorithms, problem solving and software development<br>- 💡 I enjoy solving problems and constantly improving my skills<br>- 🌍 I’m aiming to become a software engineer and work internationally<br>- ⚡ In my free time I hit the gym, build personal projects and improve my skills</p>
 
 ###
