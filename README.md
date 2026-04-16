@@ -17,7 +17,7 @@
 <p align="left">Olá! Me chamo Gabriel Debiasi Meurer! 🧑‍💻 <br><br>- 📚 Cursando Ciência da Computação - UNIVALI (2º período)<br>- 💡 Gosto de resolver problemas e aprimorar constantemente minhas habilidades.<br>- 🌍 Atualmente estou buscando um estágio e, futuramente, pretendo trabalhar internacionalmente.<br>- ⚡ No meu tempo livre gosto de treinar, construir projetos pessoais e melhorar minhas habilidades técnicas!</p>
 <br>
 
-<p align="left">I'm Gabriel Debiasi Meurer from Brazil! 🇧🇷 <br><br>- 📚 I'm currently learning Computer Science, focusing on algorithms, problem solving and software development<br>- 💡 I enjoy solving problems and constantly improving my skills<br>- 🌍 I’m aiming to become a software engineer and work internationally<br>- ⚡ In my free time I hit the gym, build personal projects and improve my skills</p>
+<p align="left">I'm Gabriel Debiasi Meurer from Brazil! 🇧🇷 <br><br>- 📚 I'm currently learning Computer Science, focusing on algorithms, problem solving and software development.<br>- 💡 I enjoy solving problems and constantly improving my skills.<br>- 🌍 I’m aiming to become a software engineer and work internationally.<br>- ⚡ In my free time I hit the gym, build personal projects and improve my skills.</p>
 
 ###
 
